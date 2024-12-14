@@ -1,0 +1,39 @@
+﻿@model List<ProyectoCapas.DAL.Usuario>
+
+@{
+    ViewData["Title"] = "Personas Disponibles";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Edad</th>
+            <th>Direccion</th>
+            <th>Telefono</th>
+            
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var usuario in Model)
+        {
+            <tr>
+                <td>@usuario.Id</td>
+                <td>@usuario.Nombre</td>
+                <td>@usuario.Apellido</td>
+                <td>@usuario.Edad</td>
+                <td>@usuario.Direccion</td>
+                <th>@usuario.Telefono</th>
+                <th>@usuario.Detalle</th>
+
+               
+                
+            </tr>
+        }
+    </tbody>
+</table>

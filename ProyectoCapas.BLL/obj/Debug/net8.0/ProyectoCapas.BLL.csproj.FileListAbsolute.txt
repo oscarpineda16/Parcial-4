@@ -1,0 +1,15 @@
+C:\Users\rosal\source\repos\Parcial4\ProyectoCapas.BLL\bin\Debug\net8.0\ProyectoCapas.BLL.deps.json
+C:\Users\rosal\source\repos\Parcial4\ProyectoCapas.BLL\bin\Debug\net8.0\ProyectoCapas.BLL.dll
+C:\Users\rosal\source\repos\Parcial4\ProyectoCapas.BLL\bin\Debug\net8.0\ProyectoCapas.BLL.pdb
+C:\Users\rosal\source\repos\Parcial4\ProyectoCapas.BLL\bin\Debug\net8.0\ProyectoCapas.DAL.dll
+C:\Users\rosal\source\repos\Parcial4\ProyectoCapas.BLL\bin\Debug\net8.0\ProyectoCapas.DAL.pdb
+C:\Users\rosal\source\repos\Parcial4\ProyectoCapas.BLL\obj\Debug\net8.0\ProyectoCapas.BLL.csproj.AssemblyReference.cache
+C:\Users\rosal\source\repos\Parcial4\ProyectoCapas.BLL\obj\Debug\net8.0\ProyectoCapas.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosal\source\repos\Parcial4\ProyectoCapas.BLL\obj\Debug\net8.0\ProyectoCapas.BLL.AssemblyInfoInputs.cache
+C:\Users\rosal\source\repos\Parcial4\ProyectoCapas.BLL\obj\Debug\net8.0\ProyectoCapas.BLL.AssemblyInfo.cs
+C:\Users\rosal\source\repos\Parcial4\ProyectoCapas.BLL\obj\Debug\net8.0\ProyectoCapas.BLL.csproj.CoreCompileInputs.cache
+C:\Users\rosal\source\repos\Parcial4\ProyectoCapas.BLL\obj\Debug\net8.0\Proyecto.9ED4066E.Up2Date
+C:\Users\rosal\source\repos\Parcial4\ProyectoCapas.BLL\obj\Debug\net8.0\ProyectoCapas.BLL.dll
+C:\Users\rosal\source\repos\Parcial4\ProyectoCapas.BLL\obj\Debug\net8.0\refint\ProyectoCapas.BLL.dll
+C:\Users\rosal\source\repos\Parcial4\ProyectoCapas.BLL\obj\Debug\net8.0\ProyectoCapas.BLL.pdb
+C:\Users\rosal\source\repos\Parcial4\ProyectoCapas.BLL\obj\Debug\net8.0\ref\ProyectoCapas.BLL.dll
